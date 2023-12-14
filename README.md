@@ -4,7 +4,7 @@ Fresh alumini from Le Wagon 🚗 (#batch 1401 🫶)
 </br>
 Continuously learning about Ruby, Rails, HTML, CSS and JavaScript 👩‍💻
 </br>
-Staring a new journey as a Full-Stack Developer ✨
+Starting a new journey as a Full-Stack Developer ✨
 </br>
 </br>
 When I'm not typing lines of codes, I'm probably learning theater lines, listening to music or talking to my plants.
