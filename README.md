@@ -1,8 +1,8 @@
 ### Hi there 🌞
 
-Fresh alumini from Le Wagon 🚗 (#batch 1401 🫶)
+Alumini (#batch 1401 🫶) and Teacher Assistant at Le Wagon Berlin 🚗
 </br>
-Continuously learning about Ruby on Rails, HTML, CSS and JavaScript 👩‍💻
+Continuously learning about Ruby, Rails, HTML, CSS and JavaScript 👩‍💻
 </br>
 Starting a new journey as a Full-Stack Developer ✨
 </br>
