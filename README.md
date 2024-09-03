@@ -4,8 +4,6 @@ Alumini (#batch 1401 🫶) and Teacher Assistant at Le Wagon Berlin 🚗
 </br>
 Continuously learning about Ruby, Rails, HTML, CSS and JavaScript 👩‍💻
 </br>
-Starting a new journey as a Full-Stack Developer ✨
-</br>
 </br>
 When I'm not typing lines of codes, you can probably find me listening to music or at a theater rehearsal.
 
